@@ -1,0 +1,13 @@
+#weather-container {
+    display: none;
+  }
+
+.container {
+    min-height: 250px;
+    max-height: 1000px;
+  }
+
+img {
+    max-height: 200px;
+  }
+  
